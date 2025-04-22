@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Andrey Paes
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1136&color=62F73B&width=389&lines=Andrey+Paes+%2F+Software+Engineer)](https://git.io/typing-svg)\*\*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1136&color=62F73B&width=389&lines=Andrey+Paes+%2F+Software+Engineer)](https://git.io/typing-svg)
 
 # 👋 Olá, eu sou o Andrey Paes!
 
