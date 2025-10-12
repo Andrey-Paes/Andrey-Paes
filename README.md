@@ -6,7 +6,7 @@
 # 👋 Olá, eu sou o Andrey Paes!
 
 🎓 Engenheiro de Software | 💻 Desenvolvedor Web | ⚙️ Apaixonado por Tecnologia
-Tenho 27 anos, sou formado em Engenharia de Software e sempre fui apaixonado por tecnologia e automação. Gosto de construir soluções eficientes que unem lógica, criatividade e uma boa pitada de código!
+Tenho 28 anos, sou formado em Engenharia de Software e sempre fui apaixonado por tecnologia e automação. Gosto de construir soluções eficientes que unem lógica, criatividade e uma boa pitada de código!
 
 ---
 
@@ -19,7 +19,7 @@ Tenho 27 anos, sou formado em Engenharia de Software e sempre fui apaixonado por
 ## 📫 Contato
 
 - Email: andreivison1997@gmail.com
-- LinkedIn: [linkedin.com/in/andrey-paes](https://www.linkedin.com/in/andrey-paes)
+- LinkedIn: [[linkedin.com/in/andrey-paes](https://www.linkedin.com/in/andrey-paes)](https://www.linkedin.com/in/andreypaes/)
 
 ---
 
