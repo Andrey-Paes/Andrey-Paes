@@ -6,7 +6,7 @@
 # 👋 Olá, eu sou o Andrey Paes!
 
 🎓 Engenheiro de Software | 💻 Desenvolvedor Web | ⚙️ Apaixonado por Tecnologia
-Tenho 28 anos, sou formado em Engenharia de Software e sempre fui apaixonado por tecnologia e automação. Gosto de construir soluções eficientes que unem lógica, criatividade e uma boa pitada de código!
+Tenho 28 anos, sou formado em Engenharia de Software e Técnico em Automação Inddustrial sempre fui apaixonado por tecnologia e automação. Gosto de construir soluções eficientes que unem lógica e criatividade.
 
 ---
 
@@ -23,9 +23,3 @@ Tenho 28 anos, sou formado em Engenharia de Software e sempre fui apaixonado por
 
 ---
 
-## 📊 GitHub Stats
-
-![Andrey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andrey-Paes&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey-Paes&layout=compact&theme=radical)
-
----
