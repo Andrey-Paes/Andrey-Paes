@@ -19,7 +19,7 @@ Tenho 28 anos, sou formado em Engenharia de Software e sempre fui apaixonado por
 ## 📫 Contato
 
 - Email: andreivison1997@gmail.com
-- LinkedIn: [[linkedin.com/in/andrey-paes](https://www.linkedin.com/in/andrey-paes)](https://www.linkedin.com/in/andreypaes/)
+- LinkedIn: https://www.linkedin.com/in/andreypaes/
 
 ---
 
