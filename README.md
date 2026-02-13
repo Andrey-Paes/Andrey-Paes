@@ -1,5 +1,5 @@
 # 👩🏻‍💻 Andrey Paes
-![snake](https://raw.githubusercontent.com/Andrey-Paes/Andrey-Paes/output/github-contribution-grid-snake.svg?random=123)
+![snake](https://raw.githubusercontent.com/Andrey-Paes/Andrey-Paes/output/github-contribution-grid-snake.svg?${{ github.run_id }})
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1136&color=62F73B&width=389&lines=Andrey+Paes+%2F+Software+Engineer)](https://git.io/typing-svg)
