@@ -1,5 +1,6 @@
 # 👩🏻‍💻 Andrey Paes
-![snake](https://raw.githubusercontent.com/Andrey-Paes/Andrey-Paes/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/Andrey-Paes/Andrey-Paes/output/github-contribution-grid-snake-dark.svg)
+
 
 
 # 👋 Olá, eu sou o Andrey Paes!
