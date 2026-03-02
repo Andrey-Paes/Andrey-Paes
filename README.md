@@ -1,25 +1,64 @@
 # 👩🏻‍💻 Andrey Paes
 ![snake](https://raw.githubusercontent.com/Andrey-Paes/Andrey-Paes/output/github-contribution-grid-snake-dark.svg)
 
+# 👋 Hello, I'm Andrey Paes
 
+🎓 Software Engineer | 💻 Web Developer | ⚙️ Industrial Automation Enthusiast  
 
-# 👋 Olá, eu sou o Andrey Paes!
+I am a Software Engineering graduate and Industrial Automation Technician passionate about technology, automation, and building efficient solutions that combine logic, creativity, and real-world problem solving.
 
-🎓 Engenheiro de Software | 💻 Desenvolvedor Web | ⚙️ Apaixonado por Tecnologia
-Tenho 28 anos, sou formado em Engenharia de Software e Técnico em Automação Inddustrial sempre fui apaixonado por tecnologia e automação. Gosto de construir soluções eficientes que unem lógica e criatividade.
+Currently focused on developing scalable web applications and technology solutions connected to real operational environments.
+
+---
+
+## 🚀 About Me
+
+- 🎓 Degree in Software Engineering
+- ⚙️ Background in Industrial Automation
+- 💡 Experience connecting software with hardware and real processes
+- 🌱 Constantly learning and improving skills in modern web technologies
+- 🎯 Interested in Web Development, Automation Systems, and IoT solutions
 
 ---
 
-## 🧰 Tecnologias
+## 🧰 Tech Stack
 
-- **Linguagens:** JavaScript, TypeScript, HTML, CSS, Python
-- **Frameworks:** React, Node.js, Express
-- **Outros:** Git, GitHub, APIs, bancos de dados
+### 💻 Languages
+- JavaScript
+- TypeScript
+- Python
+- HTML5
+- CSS3
 
-## 📫 Contato
+### ⚙️ Frameworks & Tools
+- React
+- Node.js
+- Express
+- REST APIs
+- Git & GitHub
 
-- Email: andreivison1997@gmail.com
-- LinkedIn: https://www.linkedin.com/in/andreypaes/
+### 🗄️ Databases
+- PostgreSQL
+- Supabase
+- MongoDB (basic)
 
 ---
+
+## 📈 What I'm Working On
+
+- 🚜 Automation & data solutions for agriculture technology
+- 🌐 Web applications using React + TypeScript
+- 🔗 API integrations and backend services
+- 📊 Systems focused on real-time data and dashboards
+
+---
+
+## 📫 Contact
+
+- 📧 Email: andreivison1997@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/andreypaes/
+
+---
+
+⭐️ Feel free to explore my repositories and projects!
 
