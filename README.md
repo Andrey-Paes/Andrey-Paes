@@ -1,64 +1,126 @@
 # 👩🏻‍💻 Andrey Paes
 ![snake](https://raw.githubusercontent.com/Andrey-Paes/Andrey-Paes/output/github-contribution-grid-snake-dark.svg)
 
-# 👋 Hello, I'm Andrey Paes
 
-🎓 Software Engineer | 💻 Web Developer | ⚙️ Industrial Automation Enthusiast  
+👋 Hello, I’m Andrey Paes
 
-I am a Software Engineering graduate and Industrial Automation Technician passionate about technology, automation, and building efficient solutions that combine logic, creativity, and real-world problem solving.
+Java Developer | Software Engineer | Industrial Automation
 
-Currently focused on developing scalable web applications and technology solutions connected to real operational environments.
+Software Engineering graduate with a background in Industrial Automation and experience developing technology solutions connected to real-world operational environments.
 
----
+Currently focusing my career on Java Backend Development, studying Java, Object-Oriented Programming, SQL, REST APIs and Spring Boot.
 
-## 🚀 About Me
+My background in industrial automation gives me experience with hardware, communication protocols, telemetry, data collection and systems that interact with real operational processes.
 
-- 🎓 Degree in Software Engineering
-- ⚙️ Background in Industrial Automation
-- 💡 Experience connecting software with hardware and real processes
-- 🌱 Constantly learning and improving skills in modern web technologies
-- 🎯 Interested in Web Development, Automation Systems, and IoT solutions
+⸻
 
----
+🚀 Currently Learning
 
-## 🧰 Tech Stack
+* Java
+* Object-Oriented Programming
+* Data Structures
+* Algorithms and Problem Solving
+* SQL
+* JDBC
+* REST APIs
+* Spring Boot
+* JPA / Hibernate
+* Unit Testing
+* Git & GitHub
 
-### 💻 Languages
-- JavaScript
-- TypeScript
-- Python
-- HTML5
-- CSS3
+⸻
 
-### ⚙️ Frameworks & Tools
-- React
-- Node.js
-- Express
-- REST APIs
-- Git & GitHub
+🧰 Technologies
 
-### 🗄️ Databases
-- PostgreSQL
-- Supabase
-- MongoDB (basic)
+Backend
 
----
+* Java
+* Spring Boot
+* REST APIs
+* JPA / Hibernate
+* JDBC
 
-## 📈 What I'm Working On
+Databases
 
-- 🚜 Automation & data solutions for agriculture technology
-- 🌐 Web applications using React + TypeScript
-- 🔗 API integrations and backend services
-- 📊 Systems focused on real-time data and dashboards
+* PostgreSQL
+* SQL
+* Supabase
+* MongoDB
 
----
+Frontend
 
-## 📫 Contact
+* JavaScript
+* TypeScript
+* React
+* HTML5
+* CSS3
 
-- 📧 Email: andreivison1997@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/andreypaes/
+Tools
 
----
+* Git
+* GitHub
+* IntelliJ IDEA
+* VS Code
+* Postman
 
-⭐️ Feel free to explore my repositories and projects!
+Other
 
+* Industrial Automation
+* IoT
+* Telemetry
+* Embedded Systems
+* Hardware / Software Integration
+
+⸻
+
+📚 Java Studies
+
+I am currently building a structured Java learning path, documenting my progress and practical exercises.
+
+Topics include:
+
+* Java Fundamentals
+* Object-Oriented Programming
+* Collections
+* Exceptions
+* Generics
+* Lambdas and Streams
+* File I/O
+* SQL and JDBC
+* Unit Testing
+* Spring Boot
+* REST APIs
+* JPA / Hibernate
+
+📖 Java Studies Repository
+
+⸻
+
+🚀 Projects
+
+Projects focused on backend development, APIs, databases and real-world software solutions.
+
+📂 View my Java Projects
+
+⸻
+
+⚙️ Background
+
+My professional background combines:
+
+Software Engineering + Industrial Automation + IoT
+
+I have experience working with industrial systems, telemetry, hardware communication, data collection and software solutions used in real operational environments.
+
+This combination allows me to approach software development not only from the code perspective, but also from the perspective of the physical systems and processes connected to it.
+
+⸻
+
+📫 Contact
+
+* 📧 Email: andreivison1997@gmail.com
+* 💼 LinkedIn: https://www.linkedin.com/in/andreypaes/
+
+⸻
+
+⭐ Feel free to explore my repositories and projects.
